@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  margin: 0px;
+}
+.main-div {
+  background-color: #0e2c86;
+  padding: 0.3rem;
+  border-radius: 3rem;
+  margin: 20px 50px;
+}
+footer {
+  background-color: #071a52;
+  color: white;
+  padding: 0.5rem;
+  border-top-right-radius: 2rem;
+  border-bottom-left-radius: 2rem;
+}
